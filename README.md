@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Yukthi — Java Full Stack Developer</h1>
+<h1 align="center">👋 Hi, I'm Yukthi Hk — Java Full Stack Developer</h1>
 
 <p align="center">
   🚀 Passionate about building scalable Java applications, RESTful APIs, and modern full-stack web solutions.  
