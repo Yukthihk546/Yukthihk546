@@ -13,8 +13,8 @@
 - 💬 Ask me about **Java | Spring Boot | Hibernate | REST APIs | React | Angular | MySQL | MongoDB**  
 - 🧩 Experienced in designing and developing **enterprise-level Java applications**  
 - ⚙️ Skilled in **CI/CD pipelines, Git version control**, and **API testing (Postman, Swagger)**  
-- 📫 Reach me at **[your-email@example.com]**  
-- 🌐 Portfolio: [your-portfolio-link](#)  
+- 📫 Reach me at **[yyukthihkl@gmail.com]**  
+- 🌐 Portfolio: [https://resume-to-web-craft-69.lovable.app/](#)  
 
 ---
 
