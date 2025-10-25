@@ -54,7 +54,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yukthihk546&show_icons=true&theme=react&hide_border=true" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yukthihk546&theme=react&hide_border=true" height="165">
 </p>
 
